@@ -1,1 +1,1 @@
-console.log('test')
+console.log('으 냄시')
